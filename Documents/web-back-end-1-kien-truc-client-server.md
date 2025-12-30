@@ -54,3 +54,20 @@ Cần phân biệt rõ giữa trang web và website: Một **website là một t
 Mặc dù không có ranh giới phân biệt hoàn toàn rõ ràng, nhưng website thường **ít phức tạp và dễ phát triển hơn** so với ứng dụng web. Trong khi ứng dụng web tập trung vào sự tương tác và dữ liệu do người dùng đóng góp (như Facebook hay Gmail), thì website chủ yếu chứa nội dung do nhà phát triển tạo ra.
 
 Để hiểu một cách đơn giản nhất, nếu coi mỗi **trang web** là một trang giấy riêng lẻ chứa thông tin, thì **website** chính là **một cuốn sách hoàn chỉnh** tập hợp tất cả các trang giấy đó lại theo một chủ đề nhất định.
+
+### Ứng dụng web là gì ?
+**Ứng dụng web** (web application hoặc web app) là một loại ứng dụng mà người dùng có thể truy cập và sử dụng thông qua **Internet, mạng nội bộ (LAN)** hoặc ngay trên máy cục bộ bằng cách sử dụng **trình duyệt web**.
+
+Dưới đây là các đặc điểm chi tiết về ứng dụng web:
+
+*   **Cơ chế hoạt động:** Ứng dụng web hoạt động dựa trên **mô hình client-server**. Trong đó, mã nguồn của ứng dụng được lưu trữ trên **máy chủ (server)**, còn giao diện tương tác sẽ hiển thị trên trình duyệt của người dùng.
+*   **Sự tương tác và nội dung:** Điểm khác biệt lớn nhất của ứng dụng web là khả năng **tương tác cao**. Hầu hết nội dung và dữ liệu trên ứng dụng web là do **người dùng đóng góp** và phản hồi, thay vì chỉ là nội dung tĩnh do nhà phát triển tạo ra như ở các website thông thường,.
+*   **Đặc tính kỹ thuật:** Ứng dụng web giống như một **ứng dụng máy tính** nhưng chạy trên nền trình duyệt. Nó có độ phức tạp cao hơn và đòi hỏi nhiều kỹ năng chuyên môn để phát triển hơn so với một website. Tuy nhiên, trong thực tế, **không có sự phân biệt hoàn toàn rõ ràng** giữa một website và một ứng dụng web,.
+*   **Các loại ứng dụng web phổ biến:**
+    *   **Mạng xã hội:** Ví dụ như Facebook.
+    *   **Thư điện tử:** Ví dụ như Gmail.
+    *   **Thương mại điện tử:** Các trang bán hàng trực tuyến như Tiki.
+    *   **Công cụ tiện ích:** Bản đồ, diễn đàn, nhật ký mạng (blog).
+    *   **Quản lý chuyên dụng:** Hệ thống quản lý nhân lực, quản lý y tế và chăm sóc sức khỏe.
+
+Để dễ hiểu, nếu coi một **website giống như một tờ báo điện tử** nơi bạn chủ yếu chỉ để đọc thông tin, thì một **ứng dụng web giống như một tờ phiếu điền thông tin trực tuyến**; ở đó, bạn không chỉ xem mà còn có thể nhập dữ liệu, thực hiện tính toán và nhận lại kết quả xử lý riêng biệt cho chính mình.
