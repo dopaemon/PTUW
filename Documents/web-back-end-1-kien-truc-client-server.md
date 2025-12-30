@@ -40,3 +40,17 @@ Dưới đây là những đặc điểm chi tiết của trang web dựa trên 
 Cần phân biệt rõ giữa trang web và website: Một **website là một tập hợp của nhiều trang web có liên quan đến nhau**. Ví dụ, website của báo Tuổi Trẻ là một tập hợp bao gồm nhiều trang web thành viên như trang thời sự, trang công nghệ và các chuyên mục khác.
 
 Để dễ hình dung, bạn có thể coi **website giống như một cuốn sách hoàn chỉnh**, và **mỗi trang web chính là một trang giấy cụ thể trong cuốn sách đó**. Bạn có thể đọc từng trang lẻ hoặc lần theo các chỉ dẫn để chuyển sang những trang có nội dung liên quan khác.
+
+### Website là gì ?
+**Website** được định nghĩa và mô tả với các đặc điểm cụ thể như sau:
+
+*   **Định nghĩa cơ bản:** Website là một **tập hợp gồm nhiều trang web (webpage) có liên quan đến nhau** và cùng chia sẻ một **địa chỉ URL duy nhất**. 
+*   **Cấu trúc và lưu trữ:** Mã nguồn của một website chính là tập hợp mã nguồn của tất cả các trang web thành viên trong đó. Toàn bộ dữ liệu này được lưu trữ trên các **máy chủ web (web server)**.
+*   **Cách thức truy cập:** Người dùng có thể truy cập website thông qua mạng công cộng (**Internet**), mạng nội bộ (**LAN**) hoặc thậm chí là trên máy cục bộ bằng cách sử dụng địa chỉ URL của nó.
+*   **Mục đích và chủ sở hữu:** Website được sử dụng cho nhiều mục đích đa dạng như giải trí, tin tức, giáo dục, thương mại, quản lý hoặc làm mạng xã hội. Một website có thể thuộc quyền sở hữu của cá nhân, công ty, tổ chức xã hội hoặc chính phủ.
+*   **Ví dụ thực tế:** Website của báo Tuổi Trẻ có địa chỉ URL chính là `https://tuoitre.vn`. Bên trong website này bao gồm nhiều trang web thành viên như trang Thời sự (`https://tuoitre.vn/thoi-su.htm`) và trang Công nghệ (`https://tuoitre.vn/cong-nghe.htm`).
+
+**Sự khác biệt giữa Website và Ứng dụng web:**
+Mặc dù không có ranh giới phân biệt hoàn toàn rõ ràng, nhưng website thường **ít phức tạp và dễ phát triển hơn** so với ứng dụng web. Trong khi ứng dụng web tập trung vào sự tương tác và dữ liệu do người dùng đóng góp (như Facebook hay Gmail), thì website chủ yếu chứa nội dung do nhà phát triển tạo ra.
+
+Để hiểu một cách đơn giản nhất, nếu coi mỗi **trang web** là một trang giấy riêng lẻ chứa thông tin, thì **website** chính là **một cuốn sách hoàn chỉnh** tập hợp tất cả các trang giấy đó lại theo một chủ đề nhất định.
